@@ -1,0 +1,15 @@
+D:\Github\Socket\Synchronization\src\SynchronousSocketListener\bin\Debug\net6.0\SynchronousSocketListener.exe
+D:\Github\Socket\Synchronization\src\SynchronousSocketListener\bin\Debug\net6.0\SynchronousSocketListener.deps.json
+D:\Github\Socket\Synchronization\src\SynchronousSocketListener\bin\Debug\net6.0\SynchronousSocketListener.runtimeconfig.json
+D:\Github\Socket\Synchronization\src\SynchronousSocketListener\bin\Debug\net6.0\SynchronousSocketListener.dll
+D:\Github\Socket\Synchronization\src\SynchronousSocketListener\bin\Debug\net6.0\SynchronousSocketListener.pdb
+D:\Github\Socket\Synchronization\src\SynchronousSocketListener\obj\Debug\net6.0\SynchronousSocketListener.csproj.AssemblyReference.cache
+D:\Github\Socket\Synchronization\src\SynchronousSocketListener\obj\Debug\net6.0\SynchronousSocketListener.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Socket\Synchronization\src\SynchronousSocketListener\obj\Debug\net6.0\SynchronousSocketListener.AssemblyInfoInputs.cache
+D:\Github\Socket\Synchronization\src\SynchronousSocketListener\obj\Debug\net6.0\SynchronousSocketListener.AssemblyInfo.cs
+D:\Github\Socket\Synchronization\src\SynchronousSocketListener\obj\Debug\net6.0\SynchronousSocketListener.csproj.CoreCompileInputs.cache
+D:\Github\Socket\Synchronization\src\SynchronousSocketListener\obj\Debug\net6.0\SynchronousSocketListener.dll
+D:\Github\Socket\Synchronization\src\SynchronousSocketListener\obj\Debug\net6.0\refint\SynchronousSocketListener.dll
+D:\Github\Socket\Synchronization\src\SynchronousSocketListener\obj\Debug\net6.0\SynchronousSocketListener.pdb
+D:\Github\Socket\Synchronization\src\SynchronousSocketListener\obj\Debug\net6.0\SynchronousSocketListener.genruntimeconfig.cache
+D:\Github\Socket\Synchronization\src\SynchronousSocketListener\obj\Debug\net6.0\ref\SynchronousSocketListener.dll

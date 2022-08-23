@@ -1,0 +1,15 @@
+D:\Github\protobuf\src\protobuf\csharp\src\Google.Protobuf\bin\Debug\net50\Google.Protobuf.deps.json
+D:\Github\protobuf\src\protobuf\csharp\src\Google.Protobuf\bin\Debug\net50\Google.Protobuf.dll
+D:\Github\protobuf\src\protobuf\csharp\src\Google.Protobuf\bin\Debug\net50\Google.Protobuf.pdb
+D:\Github\protobuf\src\protobuf\csharp\src\Google.Protobuf\bin\Debug\net50\Google.Protobuf.xml
+D:\Github\protobuf\src\protobuf\csharp\src\Google.Protobuf\obj\Debug\net50\Google.Protobuf.csproj.AssemblyReference.cache
+D:\Github\protobuf\src\protobuf\csharp\src\Google.Protobuf\obj\Debug\net50\Google.Protobuf.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\protobuf\src\protobuf\csharp\src\Google.Protobuf\obj\Debug\net50\Google.Protobuf.AssemblyInfoInputs.cache
+D:\Github\protobuf\src\protobuf\csharp\src\Google.Protobuf\obj\Debug\net50\Google.Protobuf.AssemblyInfo.cs
+D:\Github\protobuf\src\protobuf\csharp\src\Google.Protobuf\obj\Debug\net50\Google.Protobuf.csproj.CoreCompileInputs.cache
+D:\Github\protobuf\src\protobuf\csharp\src\Google.Protobuf\obj\Debug\net50\Google.Protobuf.sourcelink.json
+D:\Github\protobuf\src\protobuf\csharp\src\Google.Protobuf\obj\Debug\net50\Google.Protobuf.dll
+D:\Github\protobuf\src\protobuf\csharp\src\Google.Protobuf\obj\Debug\net50\refint\Google.Protobuf.dll
+D:\Github\protobuf\src\protobuf\csharp\src\Google.Protobuf\obj\Debug\net50\Google.Protobuf.xml
+D:\Github\protobuf\src\protobuf\csharp\src\Google.Protobuf\obj\Debug\net50\Google.Protobuf.pdb
+D:\Github\protobuf\src\protobuf\csharp\src\Google.Protobuf\obj\Debug\net50\ref\Google.Protobuf.dll

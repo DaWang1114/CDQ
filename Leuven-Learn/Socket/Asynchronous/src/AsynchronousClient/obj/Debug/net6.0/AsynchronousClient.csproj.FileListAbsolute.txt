@@ -1,0 +1,15 @@
+D:\Github\Socket\Asynchronous\src\AsynchronousClient\bin\Debug\net6.0\AsynchronousClient.exe
+D:\Github\Socket\Asynchronous\src\AsynchronousClient\bin\Debug\net6.0\AsynchronousClient.deps.json
+D:\Github\Socket\Asynchronous\src\AsynchronousClient\bin\Debug\net6.0\AsynchronousClient.runtimeconfig.json
+D:\Github\Socket\Asynchronous\src\AsynchronousClient\bin\Debug\net6.0\AsynchronousClient.dll
+D:\Github\Socket\Asynchronous\src\AsynchronousClient\bin\Debug\net6.0\AsynchronousClient.pdb
+D:\Github\Socket\Asynchronous\src\AsynchronousClient\obj\Debug\net6.0\AsynchronousClient.csproj.AssemblyReference.cache
+D:\Github\Socket\Asynchronous\src\AsynchronousClient\obj\Debug\net6.0\AsynchronousClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Socket\Asynchronous\src\AsynchronousClient\obj\Debug\net6.0\AsynchronousClient.AssemblyInfoInputs.cache
+D:\Github\Socket\Asynchronous\src\AsynchronousClient\obj\Debug\net6.0\AsynchronousClient.AssemblyInfo.cs
+D:\Github\Socket\Asynchronous\src\AsynchronousClient\obj\Debug\net6.0\AsynchronousClient.csproj.CoreCompileInputs.cache
+D:\Github\Socket\Asynchronous\src\AsynchronousClient\obj\Debug\net6.0\AsynchronousClient.dll
+D:\Github\Socket\Asynchronous\src\AsynchronousClient\obj\Debug\net6.0\refint\AsynchronousClient.dll
+D:\Github\Socket\Asynchronous\src\AsynchronousClient\obj\Debug\net6.0\AsynchronousClient.pdb
+D:\Github\Socket\Asynchronous\src\AsynchronousClient\obj\Debug\net6.0\AsynchronousClient.genruntimeconfig.cache
+D:\Github\Socket\Asynchronous\src\AsynchronousClient\obj\Debug\net6.0\ref\AsynchronousClient.dll

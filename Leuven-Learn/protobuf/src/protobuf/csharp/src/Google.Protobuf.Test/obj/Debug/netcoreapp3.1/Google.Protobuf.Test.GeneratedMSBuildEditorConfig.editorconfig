@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Google.Protobuf.Test
+build_property.ProjectDir = D:\Github\protobuf\src\protobuf\csharp\src\Google.Protobuf.Test\

@@ -1,0 +1,15 @@
+D:\Github\Socket\Asynchronous\src\AsynchronousSocketListener\bin\Debug\net6.0\AsynchronousSocketListener.exe
+D:\Github\Socket\Asynchronous\src\AsynchronousSocketListener\bin\Debug\net6.0\AsynchronousSocketListener.deps.json
+D:\Github\Socket\Asynchronous\src\AsynchronousSocketListener\bin\Debug\net6.0\AsynchronousSocketListener.runtimeconfig.json
+D:\Github\Socket\Asynchronous\src\AsynchronousSocketListener\bin\Debug\net6.0\AsynchronousSocketListener.dll
+D:\Github\Socket\Asynchronous\src\AsynchronousSocketListener\bin\Debug\net6.0\AsynchronousSocketListener.pdb
+D:\Github\Socket\Asynchronous\src\AsynchronousSocketListener\obj\Debug\net6.0\AsynchronousSocketListener.csproj.AssemblyReference.cache
+D:\Github\Socket\Asynchronous\src\AsynchronousSocketListener\obj\Debug\net6.0\AsynchronousSocketListener.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Socket\Asynchronous\src\AsynchronousSocketListener\obj\Debug\net6.0\AsynchronousSocketListener.AssemblyInfoInputs.cache
+D:\Github\Socket\Asynchronous\src\AsynchronousSocketListener\obj\Debug\net6.0\AsynchronousSocketListener.AssemblyInfo.cs
+D:\Github\Socket\Asynchronous\src\AsynchronousSocketListener\obj\Debug\net6.0\AsynchronousSocketListener.csproj.CoreCompileInputs.cache
+D:\Github\Socket\Asynchronous\src\AsynchronousSocketListener\obj\Debug\net6.0\AsynchronousSocketListener.dll
+D:\Github\Socket\Asynchronous\src\AsynchronousSocketListener\obj\Debug\net6.0\refint\AsynchronousSocketListener.dll
+D:\Github\Socket\Asynchronous\src\AsynchronousSocketListener\obj\Debug\net6.0\AsynchronousSocketListener.pdb
+D:\Github\Socket\Asynchronous\src\AsynchronousSocketListener\obj\Debug\net6.0\AsynchronousSocketListener.genruntimeconfig.cache
+D:\Github\Socket\Asynchronous\src\AsynchronousSocketListener\obj\Debug\net6.0\ref\AsynchronousSocketListener.dll
